@@ -1,0 +1,48 @@
+# ASP.NET Core
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (for Visual Studio)
+*.vssscc
+*.vspscc
+
+# User-specific files
+.vs2019/
+.vs2017/
+.vs/
+.idea/
+
+# User-specific files for JetBrains Rider
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# VS for Mac
+.vscode/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# npm packages
+node_modules/
+
+# Azure Web Apps
+.DS_Store
+.vscode/
+.vs/
